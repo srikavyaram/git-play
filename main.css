@@ -14,7 +14,9 @@ body
   color: #FFF;
   width:100vw;
   position:absolute;
+  margin-top: 30;
   top:50%;
+  left:60;
   transform:translateY(-70%);
 
   
