@@ -1,0 +1,21 @@
+body
+{
+	width:100vw;
+	height:100vh;
+	padding:0;
+	margin:0;
+  background-image: url("green.jpg");
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+}
+#hello{
+  font-size: 12vw;
+  text-align: left;
+  color: #FFF;
+  width:100vw;
+  position:absolute;
+  top:50%;
+  transform:translateY(-70%);
+
+  
+}
